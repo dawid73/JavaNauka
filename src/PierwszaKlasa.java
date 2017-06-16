@@ -7,6 +7,8 @@ public class PierwszaKlasa {
         System.out.println("Hello GIT!! ");
 
         System.out.println("test z drugiego komputera");
+
+        System.out.println("ggggsgsgsg");
     }
 
 }
