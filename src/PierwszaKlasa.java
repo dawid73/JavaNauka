@@ -1,7 +1,9 @@
-/**
- * Created by Lenovo on 2017-06-16.
- */
+
 public class PierwszaKlasa {
+
+
+
+
     public static void main(String[] args) {
 
         System.out.println("Hello GIT!! ");
@@ -9,6 +11,8 @@ public class PierwszaKlasa {
         System.out.println("test z drugiego komputera");
 
         System.out.println("ggggsgsgsg");
+
+        System.out.println("tetst");
     }
 
 }
